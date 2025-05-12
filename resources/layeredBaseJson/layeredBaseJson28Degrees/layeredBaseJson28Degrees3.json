@@ -1,0 +1,22 @@
+{
+  "dress": {
+    "season": [
+      "summer"
+    ],
+    "sleeveLength": [
+      "sleeveless",
+      "short sleeves"
+    ]
+  },
+  "pants": {
+    "season": [
+      "summer"
+    ],
+    "bottomLength": [
+      "bermuda pants",
+      "capri pants",
+      "ankle pants",
+      "long pants"
+    ]
+  }
+}

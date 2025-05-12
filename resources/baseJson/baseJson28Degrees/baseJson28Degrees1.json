@@ -1,0 +1,14 @@
+{
+  "top1": {
+    "season": ["summer"],
+    "category": ["t-shirt", "shirt/blouse"],
+    "sleeveLength": ["sleeveless", "short sleeves"],
+    "isSeeThrough": false
+  },
+  "pants": {
+    "season": ["summer"]
+  }
+}
+
+
+

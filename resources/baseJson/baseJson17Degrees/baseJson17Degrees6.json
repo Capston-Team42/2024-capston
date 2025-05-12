@@ -1,0 +1,30 @@
+{
+  "top1": {
+    "season": [
+      "spring"
+    ],
+    "category": [
+      "t-shirt",
+      "shirt/blouse"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ],
+    "isSeeThrough": false
+  },
+  "dress": {
+    "season": [
+      "spring"
+    ],
+    "sleeveLength": [
+      "sleeveless"
+    ],
+    "isTopRequired": true,
+    "isSeeThrough": false
+  },
+  "outerwear1": {
+    "season": [
+      "spring"
+    ]
+  }
+}

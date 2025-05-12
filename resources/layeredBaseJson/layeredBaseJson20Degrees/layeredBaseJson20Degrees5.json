@@ -1,0 +1,28 @@
+{
+  "outer as top1": {
+    "season": [
+      "spring"
+    ],
+    "category": [
+      "cardigan"
+    ],
+    "sleeveLength": [
+      "short sleeves",
+      "long sleeves"
+    ]
+  },
+  "pants": {
+    "season": [
+      "spring"
+    ],
+    "bottomLength": [
+      "ankle pants",
+      "long pants"
+    ]
+  },
+  "skirt": {
+    "skirtType": [
+      "wrap"
+    ]
+  }
+}

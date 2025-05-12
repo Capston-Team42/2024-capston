@@ -1,0 +1,38 @@
+{
+  "skirt": {
+    "season": [
+      "winter"
+    ],
+    "skirtLength": [
+      "long skirt"
+    ],
+    "skirtType": [
+      "pleats",
+      "cancan",
+      "tiered",
+      "skirt pants",
+      "plain"
+    ]
+  },
+  "outer as top1": {
+    "season": [
+      "winter"
+    ],
+    "category": [
+      "cardigan"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ]
+  },
+  "outerwear1": {
+    "season": [
+      "winter"
+    ],
+    "category": [
+      "padding",
+      "mustang/fur",
+      "winter coat"
+    ]
+  }
+}

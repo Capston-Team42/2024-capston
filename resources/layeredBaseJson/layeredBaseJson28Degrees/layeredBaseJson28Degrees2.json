@@ -1,0 +1,34 @@
+{
+  "top1": {
+    "season": [
+      "summer"
+    ],
+    "category": [
+      "t-shirt",
+      "shirt/blouse"
+    ],
+    "sleeveLength": [
+      "short sleeves"
+    ],
+    "isSimple": true
+  },
+  "pants": {
+    "season": [
+      "summer"
+    ],
+    "bottomLength": [
+      "bermuda pants",
+      "capri pants",
+      "ankle pants",
+      "long pants"
+    ]
+  },
+  "dress": {
+    "season": [
+      "summer"
+    ],
+    "sleeveLength": [
+      "sleeveless"
+    ]
+  }
+}

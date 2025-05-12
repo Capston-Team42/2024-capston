@@ -1,0 +1,13 @@
+{
+  "dress": {
+    "season": [
+      "summer"
+    ],
+    "sleeveLength": [
+      "long sleeves",
+      "short sleeves"
+    ],
+    "isTopRequired": false,
+    "isSeeThrough": false
+  }
+}

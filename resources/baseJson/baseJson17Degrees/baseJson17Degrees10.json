@@ -1,0 +1,34 @@
+{
+  "pants": {
+    "season": [
+      "spring"
+    ],
+    "length": [
+      "ankle pants",
+      "long pants"
+    ]
+  },
+  "skirt": {
+    "season": [
+      "spring"
+    ],
+    "skirtType": [
+      "pleats",
+      "cancan",
+      "tiered",
+      "skirt pants",
+      "plain"
+    ]
+  },
+  "outer as top1": {
+    "season": [
+      "spring"
+    ],
+    "category": [
+      "cardigan"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ]
+  }
+}
