@@ -1,0 +1,16 @@
+{
+  "dress": {
+    "season": [
+      "summer"
+    ],
+    "sleeveLength": [
+      "sleeveless",
+      "short sleeves"
+    ]
+  },
+  "pants": {
+    "season": [
+      "summer"
+    ]
+  }
+}

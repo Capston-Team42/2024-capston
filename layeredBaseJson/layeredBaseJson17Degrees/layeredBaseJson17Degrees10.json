@@ -1,0 +1,32 @@
+{
+  "top1": {
+    "season": [
+      "spring"
+    ],
+    "category": [
+      "knit"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ],
+    "isSimple": true
+  },
+  "dress": {
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "sleeveLength": [
+      "sleeveless"
+    ]
+  },
+  "pants": {
+    "season": [
+      "spring"
+    ],
+    "bottomLength": [
+      "ankle pants",
+      "long pants"
+    ]
+  }
+}

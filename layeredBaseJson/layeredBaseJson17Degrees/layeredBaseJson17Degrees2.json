@@ -1,0 +1,33 @@
+{
+  "top1": {
+    "season": [
+      "spring"
+    ],
+    "category": [
+      "t-shirt",
+      "shirt/blouse"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ]
+  },
+  "pants": {
+    "season": [
+      "spring"
+    ],
+    "bottomLength": [
+      "ankle pants",
+      "long pants"
+    ]
+  },
+  "outerwear1": {
+    "season": [
+      "spring"
+    ]
+  },
+  "skirt": {
+    "skirtType": [
+      "wrap"
+    ]
+  }
+}

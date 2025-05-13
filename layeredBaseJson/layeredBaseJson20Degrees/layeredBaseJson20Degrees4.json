@@ -1,0 +1,27 @@
+{
+  "top1": {
+    "season": [
+      "spring"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ]
+  },
+  "dress": {
+    "season": [
+      "spring"
+    ],
+    "sleeveLength": [
+      "sleeveless"
+    ]
+  },
+  "pants": {
+    "season": [
+      "spring"
+    ],
+    "bottomLength": [
+      "ankle pants",
+      "long pants"
+    ]
+  }
+}

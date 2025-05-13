@@ -1,0 +1,21 @@
+{
+  "dress": {
+    "season": [
+      "summer"
+    ],
+    "sleeveLength": [
+      "sleeveless"
+    ],
+    "isTopRequired": false
+  },
+  "pants": {
+    "season": [
+      "summer"
+    ]
+  },
+  "outerwear1": {
+    "season": [
+      "summer"
+    ]
+  }
+}
