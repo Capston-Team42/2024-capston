@@ -1,0 +1,33 @@
+{
+  "top1": {
+    "season": [
+      "winter"
+    ],
+    "category": [
+      "t-shirt",
+      "shirt/blouse"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ],
+    "isSeeThrough": false
+  },
+  "pants": {
+    "season": [
+      "winter"
+    ],
+    "bottomLength": [
+      "long pants"
+    ]
+  },
+  "outerwearThin": {
+    "season": [
+      "autumn"
+    ]
+  },
+  "outerwear1": {
+    "season": [
+      "winter"
+    ]
+  }
+}

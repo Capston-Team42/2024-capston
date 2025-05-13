@@ -1,0 +1,44 @@
+{
+  "top1": {
+    "season": [
+      "winter"
+    ],
+    "category": [
+      "shirt/blouse"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ],
+    "isSeeThrough": false
+  },
+  "top2": {
+    "season": [
+      "winter"
+    ],
+    "category": [
+      "knit"
+    ],
+    "sleeveLength": [
+      "sleeveless"
+    ],
+    "isSeeThrough": false
+  },
+  "pants": {
+    "season": [
+      "autumn"
+    ],
+    "bottomLength": [
+      "long pants"
+    ]
+  },
+  "outerwearThin": {
+    "season": [
+      "autumn"
+    ]
+  },
+  "outerwear1": {
+    "season": [
+      "winter"
+    ]
+  }
+}

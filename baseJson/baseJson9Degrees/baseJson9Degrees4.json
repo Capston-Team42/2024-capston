@@ -1,0 +1,34 @@
+{
+  "top1": {
+    "season": [
+      "autumn"
+    ],
+    "category": [
+      "t-shirt",
+      "shirt/blouse"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ],
+    "isSeeThrough": false
+  },
+  "dress": {
+    "season": [
+      "autumn"
+    ],
+    "skirtLength": [
+      "midi skirt",
+      "long skirt"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ],
+    "isTopRequired": true,
+    "isSeeThrough": false
+  },
+  "outerwear1": {
+    "season": [
+      "winter"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "top1": {
+    "season": [
+      "summer"
+    ],
+    "category": [
+      "t-shirt",
+      "shirt/blouse"
+    ],
+    "sleeveLength": [
+      "sleeveless"
+    ]
+  },
+  "pants": {
+    "season": [
+      "summer"
+    ]
+  },
+  "outerwear1": {
+    "season": [
+      "summer"
+    ]
+  }
+}

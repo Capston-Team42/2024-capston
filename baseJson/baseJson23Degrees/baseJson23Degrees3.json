@@ -1,0 +1,25 @@
+{
+  "top1": {
+    "season": [
+      "summer"
+    ],
+    "category": [
+      "t-shirt",
+      "shirt/blouse",
+      "knit"
+    ],
+    "sleeveLength": [
+      "short sleeves",
+      "long sleeves"
+    ],
+    "isSimple": true
+  },
+  "dress": {
+    "season": [
+      "summer"
+    ],
+    "sleeveLength": [
+      "sleeveless"
+    ]
+  }
+}

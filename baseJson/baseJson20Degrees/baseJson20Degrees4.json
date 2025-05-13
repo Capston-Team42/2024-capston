@@ -1,0 +1,25 @@
+{
+  "top1": {
+    "season": [
+      "spring"
+    ],
+    "category": [
+      "knit"
+    ],
+    "sleeveLength": [
+      "short sleeves"
+    ]
+  },
+  "skirt": {
+    "season": [
+      "spring"
+    ],
+    "skirtType": [
+      "pleats",
+      "cancan",
+      "tiered",
+      "skirt pants",
+      "plain"
+    ]
+  }
+}
