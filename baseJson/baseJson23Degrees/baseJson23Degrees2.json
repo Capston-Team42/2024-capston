@@ -1,0 +1,28 @@
+{
+  "top1": {
+    "season": [
+      "summer"
+    ],
+    "category": [
+      "t-shirt",
+      "shirt/blouse",
+      "knit"
+    ],
+    "sleeveLength": [
+      "short sleeves",
+      "long sleeves"
+    ]
+  },
+  "skirt": {
+    "season": [
+      "summer"
+    ],
+    "skirtType": [
+      "pleats",
+      "cancan",
+      "tiered",
+      "skirt pants",
+      "plain"
+    ]
+  }
+}
