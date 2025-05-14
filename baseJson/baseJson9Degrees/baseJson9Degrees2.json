@@ -1,0 +1,36 @@
+{
+  "top1": {
+    "season": [
+      "autumn"
+    ],
+    "category": [
+      "knit",
+      "sweatshirt",
+      "hooded sweatshirt"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ]
+  },
+  "skirt": {
+    "season": [
+      "autumn"
+    ],
+    "skirtLength": [
+      "midi skirt",
+      "long skirt"
+    ],
+    "skirtType": [
+      "pleats",
+      "cancan",
+      "tiered",
+      "skirt pants",
+      "plain"
+    ]
+  },
+  "outerwear1": {
+    "season": [
+      "autumn"
+    ]
+  }
+}

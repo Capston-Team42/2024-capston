@@ -1,0 +1,40 @@
+{
+  "top1": {
+    "category": [
+      "shirt/blouse"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ],
+    "isSimple": true
+  },
+  "top2": {
+    "category": [
+      "knit"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ]
+  },
+  "skirt": {
+    "season": [
+      "autumn"
+    ],
+    "skirtLength": [
+      "midi skirt",
+      "long skirt"
+    ],
+    "skirtType": [
+      "pleats",
+      "cancan",
+      "tiered",
+      "skirt pants",
+      "plain"
+    ]
+  },
+  "outerwear1": {
+    "season": [
+      "autumn"
+    ]
+  }
+}

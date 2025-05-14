@@ -1,0 +1,27 @@
+{
+  "top1": {
+    "season": [
+      "spring"
+    ],
+    "category": [
+      "knit",
+      "sweatshirt",
+      "hooded sweatshirt"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ]
+  },
+  "skirt": {
+    "season": [
+      "spring"
+    ],
+    "skirtType": [
+      "pleats",
+      "cancan",
+      "tiered",
+      "skirt pants",
+      "plain"
+    ]
+  }
+}

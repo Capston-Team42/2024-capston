@@ -1,0 +1,22 @@
+{
+  "pants": {
+    "season": [
+      "autumn"
+    ],
+    "bottomLength": [
+      "ankle pants",
+      "long pants"
+    ]
+  },
+  "outer as top1": {
+    "season": [
+      "autumn"
+    ],
+    "category": [
+      "cardigan"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "dress": {
+    "season": [
+      "spring"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ],
+    "isTopRequired": false
+  },
+  "outerwear1": {
+    "season": [
+      "spring"
+    ]
+  }
+}

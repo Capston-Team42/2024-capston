@@ -1,0 +1,29 @@
+{
+  "top1": {
+    "season": [
+      "autumn",
+      "winter"
+    ],
+    "category": [
+      "knit",
+      "sweatshirt",
+      "hooded sweatshirt"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ]
+  },
+  "pants": {
+    "season": [
+      "winter"
+    ],
+    "bottomLength": [
+      "long pants"
+    ]
+  },
+  "outerwear1": {
+    "season": [
+      "winter"
+    ]
+  }
+}
