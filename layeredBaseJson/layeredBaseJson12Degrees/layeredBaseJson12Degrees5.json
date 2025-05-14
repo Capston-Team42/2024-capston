@@ -1,0 +1,43 @@
+{
+  "top1": {
+    "category": [
+      "shirt/blouse"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ],
+    "isSimple": true,
+    "fit": [
+      "regular",
+      "oversize"
+    ]
+  },
+  "top2": {
+    "category": [
+      "knit"
+    ],
+    "sleeveLength": [
+      "sleeveless",
+      "long sleeves"
+    ]
+  },
+  "pants": {
+    "season": [
+      "autumn"
+    ],
+    "bottomLength": [
+      "ankle pants",
+      "long pants"
+    ]
+  },
+  "outerwear1": {
+    "season": [
+      "autumn"
+    ]
+  },
+  "skirt": {
+    "skirtType": [
+      "wrap"
+    ]
+  }
+}

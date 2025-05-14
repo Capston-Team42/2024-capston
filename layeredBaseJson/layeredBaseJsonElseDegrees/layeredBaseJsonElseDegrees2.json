@@ -1,0 +1,27 @@
+{
+  "dress": {
+    "season": [
+      "winter"
+    ],
+    "skirtLength": [
+      "long skirt"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ],
+    "isTopRequired": false
+  },
+  "outerwear1": {
+    "season": [
+      "winter"
+    ]
+  },
+  "pants": {
+    "season": [
+      "winter"
+    ],
+    "bottomLength": [
+      "long pants"
+    ]
+  }
+}

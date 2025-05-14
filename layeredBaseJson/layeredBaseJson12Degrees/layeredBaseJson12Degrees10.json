@@ -1,0 +1,39 @@
+{
+  "top1": {
+    "category": [
+      "t-shirt"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ],
+    "isSimple": true,
+    "fit": [
+      "regular",
+      "oversize"
+    ]
+  },
+  "top2": {
+    "category": [
+      "shirt/blouse",
+      "knit"
+    ],
+    "sleeveLength": [
+      "short sleeves",
+      "sleeveless"
+    ]
+  },
+  "pants": {
+    "season": [
+      "spring"
+    ],
+    "bottomLength": [
+      "ankle pants",
+      "long pants"
+    ]
+  },
+  "outerwear1": {
+    "season": [
+      "autumn"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "top1": {
+    "season": [
+      "autumn"
+    ],
+    "category": [
+      "t-shirt",
+      "shirt/blouse"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ],
+    "isSimple": true
+  },
+  "dress": {
+    "season": [
+      "autumn"
+    ],
+    "skirtLength": [
+      "midi skirt",
+      "long skirt"
+    ],
+    "sleeveLength": [
+      "sleeveless"
+    ]
+  },
+  "outerwear1": {
+    "season": [
+      "autumn"
+    ]
+  },
+  "pants": {
+    "season": [
+      "autumn"
+    ],
+    "bottomLength": [
+      "ankle pants",
+      "long pants"
+    ]
+  }
+}

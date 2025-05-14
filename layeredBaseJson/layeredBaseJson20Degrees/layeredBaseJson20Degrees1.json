@@ -1,0 +1,24 @@
+{
+  "top1": {
+    "season": [
+      "spring"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ]
+  },
+  "pants": {
+    "season": [
+      "spring"
+    ],
+    "bottomLength": [
+      "ankle pants",
+      "long pants"
+    ]
+  },
+  "skirt": {
+    "skirtType": [
+      "wrap"
+    ]
+  }
+}

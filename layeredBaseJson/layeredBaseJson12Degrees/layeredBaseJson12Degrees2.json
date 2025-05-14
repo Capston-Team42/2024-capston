@@ -1,0 +1,28 @@
+{
+  "top1": {
+    "season": [
+      "winter"
+    ],
+    "category": [
+      "knit"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ]
+  },
+  "pants": {
+    "season": [
+      "autumn"
+    ],
+    "bottomLength": [
+      "ankle pants",
+      "long pants"
+    ]
+  },
+  "skirt": {
+    "skirtType": [
+      "wrap"
+    ]
+  }
+
+}

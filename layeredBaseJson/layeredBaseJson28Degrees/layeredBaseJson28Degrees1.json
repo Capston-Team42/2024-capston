@@ -1,0 +1,25 @@
+{
+  "top1": {
+    "season": [
+      "summer"
+    ],
+    "category": [
+      "t-shirt",
+      "shirt/blouse"
+    ],
+    "sleeveLength": [
+      "sleeveless",
+      "short sleeves"
+    ]
+  },
+  "pants": {
+    "season": [
+      "summer"
+    ]
+  },
+  "skirt": {
+    "skirtType": [
+      "wrap"
+    ]
+  }
+}

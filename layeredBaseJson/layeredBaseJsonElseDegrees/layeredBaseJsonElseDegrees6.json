@@ -1,0 +1,41 @@
+{
+  "top1": {
+    "category": [
+      "shirt/blouse"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ]
+  },
+  "top2": {
+    "category": [
+      "knit"
+    ],
+    "sleeveLength": [
+      "sleeveless"
+    ]
+  },
+  "pants": {
+    "season": [
+      "winter"
+    ],
+    "bottomLength": [
+      "long pants"
+    ]
+  },
+  "outerwear1": {
+    "season": [
+      "autumn"
+    ]
+  },
+  "outerwear2": {
+    "season": [
+      "winter"
+    ]
+  },
+  "skirt": {
+    "skirtType": [
+      "wrap"
+    ]
+  }
+}

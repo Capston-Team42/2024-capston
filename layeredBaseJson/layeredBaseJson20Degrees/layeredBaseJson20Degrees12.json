@@ -1,0 +1,32 @@
+{
+  "top1": {
+    "category": [
+      "shirt/blouse",
+      "t-shirt"
+    ],
+    "sleeveLength": [
+      "sleeveless"
+    ],
+    "fit": [
+      "regular",
+      "oversize"
+    ]
+  },
+  "top2": {
+    "category": [
+      "knit"
+    ],
+    "sleeveLength": [
+      "sleeveless"
+    ]
+  },
+  "pants": {
+    "season": [
+      "spring"
+    ],
+    "bottomLength": [
+      "ankle pants",
+      "long pants"
+    ]
+  }
+}

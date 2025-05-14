@@ -1,0 +1,36 @@
+{
+  "top1": {
+    "category": [
+      "shirt/blouse",
+      "t-shirt"
+    ],
+    "sleeveLength": [
+      "short sleeves"
+    ],
+    "isSimple": true,
+    "fit": [
+      "regular",
+      "oversize"
+    ]
+  },
+  "top2": {
+    "category": [
+      "knit"
+    ],
+    "sleeveLength": [
+      "sleeveless"
+    ]
+  },
+  "skirt": {
+    "season": [
+      "spring"
+    ],
+    "skirtType": [
+      "pleats",
+      "cancan",
+      "tiered",
+      "skirt pants",
+      "plain"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "pants": {
+    "season": [
+      "autumn"
+    ],
+    "bottomLength": [
+      "long pants"
+    ]
+  },
+  "outer as top1": {
+    "season": [
+      "autumn"
+    ],
+    "category": [
+      "cardigan"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ]
+  },
+  "outerwear1": {
+    "season": [
+      "autumn"
+    ],
+    "category": [
+      "blouson/MA-1",
+      "leather/riders jacket",
+      "trucker jacket",
+      "suit/blazer jacket",
+      "stadium jacket",
+      "season change coat",
+      "safari/hunting jacket",
+      "padding",
+      "fleece",
+      "tweed jacket"
+    ]
+  },
+  "skirt": {
+    "skirtType": [
+      "wrap"
+    ]
+  }
+}

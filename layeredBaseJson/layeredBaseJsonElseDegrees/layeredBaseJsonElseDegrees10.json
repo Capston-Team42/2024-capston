@@ -1,0 +1,49 @@
+{
+  "top1": {
+    "category": [
+      "t-shirt"
+    ],
+    "sleeveLength": [
+      "long sleeves"
+    ],
+    "isSimple": true,
+    "fit": [
+      "regular",
+      "oversize"
+    ]
+  },
+  "top2": {
+    "category": [
+      "shirt/blouse"
+    ],
+    "sleeveLength": [
+      "short sleeves",
+      "sleeveless"
+    ]
+  },
+  "skirt": {
+    "season": [
+      "winter"
+    ],
+    "skirtLength": [
+      "long skirt"
+    ],
+    "skirtType": [
+      "pleats",
+      "cancan",
+      "tiered",
+      "skirt pants",
+      "plain"
+    ]
+  },
+  "outerwear1": {
+    "season": [
+      "autumn"
+    ]
+  },
+  "outerwear2": {
+    "season": [
+      "winter"
+    ]
+  }
+}
